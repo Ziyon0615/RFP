@@ -1,0 +1,8 @@
+1. What are the factors and data preprocessing techniques to be used in the rice yield 
+prediction? 
+2. What models that can be developed for the rice yield predictions? 
+3. How do frequencies of sound emit by AUVs impact pest behavior in rice fields?
+4. What is the impact of using IoT devices to improve irrigation for rice yield 
+prediction? 
+5. How effective is the System derived in terms of accuracy, precision and recall? 
+6. How effective is the System as perceived by the experts using ISO 25010? 
